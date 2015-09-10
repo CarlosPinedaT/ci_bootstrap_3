@@ -1,0 +1,23 @@
+<?php
+	$lang['website_name'] = "Mi Sitio Web";
+	$lang['website_copyright'] = "&copy; 2015 Todos los derechos reservados.";
+	// Menu
+	$lang['home'] = "Inicio";
+	$lang['about_us'] = "Quienes Somos";
+	$lang['contact_us'] = "Contactáctenos";
+	$lang['example'] = "Ejemplo";
+	// General terms
+	$lang['address'] = "Dirreción";
+	$lang['email'] = "Correo Electrónico";
+	$lang['phone'] = "Telefono";
+	$lang['remarks'] = "Observaciones";
+	$lang['subject'] = "Asunto";
+	$lang['message'] = "Mensaje";
+	
+	// Actions
+	$lang['sign_up'] = "Registro";
+	$lang['login'] = "Iniciar Sesión";
+	$lang['search'] = "Buscar";
+	$lang['send'] = "Enviar";
+	$lang['download'] = "Descargar";
+	$lang['read_more'] = "Leer Más...";
