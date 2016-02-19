@@ -4,8 +4,8 @@
 	$lang['website_copyright'] = "&copy; 2015 Todos los derechos reservados.";
 
 	// Menu
-	$lang['home'] = "Home";
-	$lang['about_us'] = "About Us";
+	$lang['home'] = "Inicio";
+	$lang['about_us'] = "Quienes Somos";
 	$lang['contact_us'] = "Contáctenos";
 	$lang['example'] = "Ejemplo";
 
@@ -23,4 +23,4 @@
 	$lang['search'] = "Buscar";
 	$lang['send'] = "Enviar";
 	$lang['download'] = "Descargar";
-	$lang['read_more'] = "Lee mas";
+	$lang['read_more'] = "Leer más";
