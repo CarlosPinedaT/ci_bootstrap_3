@@ -4,8 +4,8 @@
 	$lang['current_language'] = "Idioma actual";
 	
 	// Menu
-	$lang['home'] = "Home";
-	$lang['about_us'] = "About Us";
+	$lang['home'] = "Inicio";
+	$lang['about_us'] = "Quienes Somos?";
 	$lang['contact_us'] = "Contáctenos";
 	$lang['example'] = "Ejemplo";
 
@@ -19,8 +19,8 @@
 	
 	// Actions
 	$lang['sign_up'] = "Registrarse";
-	$lang['login'] = "Conectarse";
+	$lang['login'] = "Iniciar Sesión";
 	$lang['search'] = "Buscar";
 	$lang['send'] = "Enviar";
 	$lang['download'] = "Descargar";
-	$lang['read_more'] = "Lee mas";
+	$lang['read_more'] = "Lee más";
